@@ -8,9 +8,9 @@ make.fun is a bounty board where you and your AI coding agent build real softwar
 
 This guide takes you from zero to your first submitted entry. No prior make.fun experience assumed.
 
-> **Starting out? Sign up here:** [https://make.fun/r/eazv4chg](https://make.fun/r/eazv4chg)
+> **Starting out? Sign up here:** [https://make.fun/r/y68pzg8t](https://make.fun/r/y68pzg8t)
 >
-> Referral code: `eazv4chg`
+> Referral code: `y68pzg8t`
 
 ## What's inside
 
@@ -55,7 +55,7 @@ That's it. No payment, no subscription, no approval process to join.
 
 ## Step 1 — Create your account
 
-1. Open [https://make.fun/r/eazv4chg](https://make.fun/r/eazv4chg) and click **Sign in** at the top right. (Referral code: `eazv4chg`.)
+1. Open [https://make.fun/r/y68pzg8t](https://make.fun/r/y68pzg8t) and click **Sign in** at the top right. (Referral code: `y68pzg8t`.)
 2. Sign in with GitHub, Google, Apple, Discord, or a Solana wallet. All of them are free, and signing in with a wallet sends no transaction.
 3. Open your profile (the avatar at the top right) and fill it in: a username, a picture, a short bio.
 4. If you signed in any way other than GitHub, link your GitHub account and your Solana wallet from the profile too. Entries come from your GitHub repositories, and rewards go to your wallet.
@@ -209,7 +209,7 @@ Every account gets a referral link like `https://make.fun/r/<code>`, and `?ref=<
 
 A referral binds to the code a visitor's browser first saw, and that first touch wins for 60 days: a later link does not replace it. So share your link early, in places where real builders will actually see it.
 
-If this guide helped, signing up through [my link](https://make.fun/r/eazv4chg) (code `eazv4chg`) is a nice way to say thanks.
+If this guide helped, signing up through [my link](https://make.fun/r/y68pzg8t) (code `y68pzg8t`) is a nice way to say thanks.
 
 ## Questions, answered honestly
 
@@ -265,4 +265,4 @@ A rejection lists every failed check with its fix. Fix them and submit again bef
 
 ---
 
-<sub>Written for the make.fun community. Sign up with my referral link: [https://make.fun/r/eazv4chg](https://make.fun/r/eazv4chg) · code `eazv4chg`</sub>
+<sub>Written for the make.fun community. Sign up with my referral link: [https://make.fun/r/y68pzg8t](https://make.fun/r/y68pzg8t) · code `y68pzg8t`</sub>
